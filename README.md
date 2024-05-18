@@ -1,11 +1,6 @@
-![PhatLoots](https://i.imgur.com/gZ5zxIX.png "PhatLoots")
-==========
-PhatLoots is a Bukkit plugin that allows a server admin to setup 'Loot Tables' that give Players Items, money, exp, etc. in the following scenarios:
 
-### Links
-* Discord: https://discordapp.com/invite/7MRPQmt
-* Download: https://www.spigotmc.org/resources/68925/ (1.13+)
-* Legacy Download for Older Versions: http://codisimus.com/phatloots
+==========
+Loottables is a Bukkit plugin that allows a server admin to setup 'Loot Tables' that give Players Items, money, exp, etc. in the following scenarios:
 
 ## Features
 * Chests may be global or individual, global is essentially first come first server and allows for ninjaing of items.
