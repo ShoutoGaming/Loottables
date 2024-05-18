@@ -2,15 +2,15 @@ name: ${project.name}
 main: com.codisimus.plugins.phatloots.PhatLoots
 version: ${project.version}
 api-version: 1.13
-author: Codisimus
-authors: [Redned]
-website: www.codisimus.com
+author: ShoutoGaming
+authors: [ShoutoGaming]
+website: ShoutoGaming
 description: Chests with randomly generated money/items
 load: POSTWORLD
 softdepend: [Vault, MythicDrops, RegionTools, WorldGuard, Econ, Votifier, Multiverse-Core, PlaceholderAPI, WorldEdit, Citizens]
 commands:
   loot:
-    description: Used to setup PhatLoot Chests and rewards
+    description: Used to setup LootTables Chests and rewards
     usage: /<command> help
 permissions:
   phatloots.loot.*:
